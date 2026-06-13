@@ -1,4 +1,4 @@
-# Hi there, I'm Godwin Isravel G R 👋
+# Hi there, I'm Godwin Isravel G R
 
 ### AI & Data Science Engineer | Python Developer | Java Programmer
 
